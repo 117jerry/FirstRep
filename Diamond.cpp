@@ -17,7 +17,7 @@ int main()
 {
     int b, num;
 
-    cout<<"Enter an odd number for a diamond(1-19): ";
+    cout<<"Enter an odd number for a diamond: ";
     cin>> num;
 
     for (;;)
