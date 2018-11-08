@@ -17,7 +17,7 @@ int main()
 {
     int b, num;
 
-    cout<<"Enter an even number for a diamond(1-19): ";
+    cout<<"Enter a number for a diamond(1-19): ";
     cin>> num;
 
     for (;;)
