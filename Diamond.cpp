@@ -22,7 +22,7 @@ int main()
 
     for (;;)
     {
-        if (num<1)
+        if (num=<0)
         {cout<<"Enter an odd number for a diamond(1-19): ";
             cin>> num;}
 
